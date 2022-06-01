@@ -50,6 +50,8 @@ public class ShapesIntersection : MonoBehaviour
             }
             result += ")" + (i == dictCollided.Count ? "" : ", ");
         }
+
+        Debug.Log("Result: " + result);
         return result;
     }
 
@@ -86,10 +88,7 @@ public class ShapesIntersection : MonoBehaviour
             {
                 Shape shapeB = shapes[shapeBIndex];
                 if (Colliding(shapeA, shapeB))
-                {
-                    Debug.Log("\nShapes collision= true!");
                     InsertCollisionPair(shapeA.id, shapeB.id, collidedShapes);
-                }
             }
         }
 
