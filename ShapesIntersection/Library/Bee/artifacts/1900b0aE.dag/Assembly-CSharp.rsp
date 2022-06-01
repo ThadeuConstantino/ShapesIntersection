@@ -369,10 +369,13 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Script/DataGame/Data.cs"
-"Assets/Script/DrawLine.cs"
+"Assets/Script/DataStatic/Data.cs"
 "Assets/Script/HUD/HudBottom.cs"
-"Assets/Script/ShapesIntersection.cs"
+"Assets/Script/Logical/DrawLine.cs"
+"Assets/Script/Logical/ShapesIntersection.cs"
+"Assets/Script/Shapes/Circle.cs"
+"Assets/Script/Shapes/Rectangle.cs"
+"Assets/Script/Shapes/Shape.cs"
 -langversion:9.0
 
 /deterministic
