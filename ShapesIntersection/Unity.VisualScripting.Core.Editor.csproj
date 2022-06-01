@@ -154,8 +154,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Reflection\LooseAssemblyNameInspector.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Acknowledgements\Acknowledgement_AqnParser.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Reflection\TypeOption.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Widgets\Nodes\NodeColor.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Primitives\DecimalInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Widgets\Nodes\NodeColor.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Description\GraphElementDescription.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Decorators\MultiDecoratorProvider.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Canvases\AlignOperation.cs" />
@@ -288,8 +288,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Debugging\GraphDebugDataProvider.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugins\PluginMigration.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\FrameLimiterUtility.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Interface\Fuzzy\FuzzyOptionTree.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Primitives\DiscreteNumberInspector.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Interface\Fuzzy\FuzzyOptionTree.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\ImplementationInspector.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Context\GraphContextAttribute.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Reflection\MemberOptionTree.cs" />
@@ -405,10 +405,10 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Meta\EditorPrefMetadata.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\ReorderableList\ElementAdderMenu\IElementAdderMenuCommand.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugin\Acknowledgements\Acknowledgement_DeepCopy.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Interface\DragAndDrop\IDragAndDropHandler.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Inspection\Primitives\UintInspector.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Descriptors\IDescription.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Widgets\Groups\GraphGroupWidget.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Interface\DragAndDrop\IDragAndDropHandler.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\IconExportUtility.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Plugins\PluginSavedVersionMigration.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Context\GraphContextProvider.cs" />
@@ -488,8 +488,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\VSBackupUtility.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\WarningLevel.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\VSMigrationUtility.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Canvases\DistributeOperation.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\Paths.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Canvases\DistributeOperation.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Interface\Fonts\FontWeight.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Widgets\Groups\GraphGroupEditor.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Utilities\EditorApplicationUtility.cs" />

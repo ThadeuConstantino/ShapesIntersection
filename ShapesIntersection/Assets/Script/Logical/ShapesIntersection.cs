@@ -79,14 +79,14 @@ public class ShapesIntersection : MonoBehaviour
     {
         Dictionary<int, List<int>> collidedShapes = new Dictionary<int, List<int>>();
 
-        int numShapes = shapes.Count;
-        for (int shapeAIndex = 0; shapeAIndex < numShapes; shapeAIndex++)
+        int total = shapes.Count;
+        for (int i = 0; i < total; i++)
         {
-            Shape shapeA = shapes[shapeAIndex];
+            Shape shapeA = shapes[i];
 
-            for (int shapeBIndex = shapeAIndex + 1; shapeBIndex < numShapes; shapeBIndex++)
+            for (int j = i + 1; j < total; j++)
             {
-                Shape shapeB = shapes[shapeBIndex];
+                Shape shapeB = shapes[j];
                 if (Colliding(shapeA, shapeB))
                     InsertCollisionPair(shapeA.id, shapeB.id, collidedShapes);
             }

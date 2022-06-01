@@ -684,10 +684,6 @@
       <Project>{8832B77A-0B15-6B3B-B350-8360E18939A9}</Project>
       <Name>Unity.2D.PixelPerfect.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.Player.csproj">
-      <Project>{72B47DA8-8C37-2714-9C63-771FFAE5019B}</Project>
-      <Name>Unity.Timeline.Player</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Player.csproj">
       <Project>{EDBC2D40-56F1-A2C9-3566-7FA69E7DA365}</Project>
       <Name>Unity.TextMeshPro.Player</Name>

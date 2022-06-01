@@ -136,8 +136,8 @@
     <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\Triangulation\TriangulationUtility.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\SkinningSerializer\SkinningSerializerJSON.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\WeightPainterTool.cs" />
-    <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\SpriteMeshData\EditableBoneWeight.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\VisibilityTool\BoneTreeViewModel.cs" />
+    <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\SpriteMeshData\EditableBoneWeight.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\LayoutOverlay\DropdownMenu.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\VisibilityTool\VisibilityToolResizer.cs" />
     <Compile Include="Library\PackageCache\com.unity.2d.animation@7.0.4\Editor\SkinningModule\Selection\IndexedSelection.cs" />
